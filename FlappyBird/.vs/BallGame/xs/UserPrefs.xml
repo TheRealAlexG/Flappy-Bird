@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{F5071018-16A2-B2EB-3DD6-003204DEA300}|">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Gira.cs">
+    <Files>
+      <File FileName="Assets/Scripts/controladorDelJugador.cs" Line="61" Column="3" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="44" Column="91" />
+      <File FileName="Assets/Scripts/controladorCamera.cs" Line="8" Column="5" />
+      <File FileName="Assets/Scripts/PipeMover.cs" Line="5" Column="21" />
+      <File FileName="Assets/Scripts/PipeSpawner.cs" Line="43" Column="36" />
+      <File FileName="Assets/Scripts/PlayerCollideManager.cs" Line="19" Column="6" />
+      <File FileName="Assets/Scripts/ScoreManager.cs" Line="11" Column="17" />
+      <File FileName="Assets/Scripts/GameOverManager.cs" Line="23" Column="6" />
+      <File FileName="Assets/Scripts/ControladorDelJocScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Gira.cs" Line="21" Column="1" />
+      <File FileName="Assets/Scripts/noDestrueixis.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BallGame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Gira.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="82995b3c-0645-48f7-94c4-350b5512c8a2" />
+</Properties>
